@@ -1,4 +1,4 @@
-# <span style="color: #5865F2;">𝓓𝓮𝓶𝓮𝓷𝓽𝓮𝓭</span> <span style="color: #ED4245;">𝓐𝓿𝓲𝓪𝓷𝓼</span> 🦜💥
+# <span style="color: #5865F2;">Demented</span> <span style="color: #ED4245;">Avians</span> 🦜💥
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0dWJjZ3R6bG9xZ3R5d2N6a3V1dXZ2eGZ6eGx4b2J6dWJzZ3Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300" alt="Crazy bird animation">
@@ -16,7 +16,7 @@
 
 ---
 
-### <span style="color: #5865F2;">𝓐𝓫𝓸𝓾𝓽 𝓤𝓼</span>
+### <span style="color: #5865F2;">About Us</span>
 We're the Demented Avians - a small collective who enjoy:
 - 🌀 Strange web experiments
 - 🤪 Generally questionable decisions
@@ -25,14 +25,14 @@ We're the Demented Avians - a small collective who enjoy:
 
 ---
 
-### <span style="color: #ED4245;">𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</span>
+### <span style="color: #ED4245;">Projects</span>
 | Nest | Status |
 |------|--------|
 | [Our Repository](https://github.com/orgs/dementedavians/repositories) | 🏗️ Under Construction |
 
 ---
 
-### <span style="color: #5865F2;">𝓒𝓸𝓷𝓽𝓪𝓬𝓽</span>
+### <span style="color: #5865F2;">Contact</span>
 > **We're not really taking commissions**, but...
 
 If you have:
